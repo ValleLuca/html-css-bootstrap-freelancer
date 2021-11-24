@@ -34,4 +34,5 @@ footer {
     height: 4px;
     vertical-align: middle;
     background-color: black;
+    border-radius: 5px;
 }
