@@ -22,15 +22,14 @@ footer {
     background-color: #2d3e51;
 }
 
-.ms-star {
+.ms_star {
     width: 200px;
 }
 
-.ms-start::after, .ms-star::before {
+.ms_star::before, .ms_start::after {
     content: '';
     display: inline-block;
     width: 15%;
     height: 4px;
-    line-height: 4px;
     background-color: black;
 }
