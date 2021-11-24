@@ -21,3 +21,16 @@
 footer {
     background-color: #2d3e51;
 }
+
+.ms-star {
+    width: 200px;
+}
+
+.ms-start::after,
+.ms-star::before {
+    content: "";
+    display: inline-block;
+    height: 1px;
+    background-color: black;
+
+}
